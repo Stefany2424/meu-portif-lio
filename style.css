@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: larger;
+    color: rgb(0, 0, 0);
+    background-image: url('05BC029T5-full.webp');
+   background-size: cover;
+   background-position: top;
+   overflow: hidden;
+   
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(90, 18, 60);
+
+}
